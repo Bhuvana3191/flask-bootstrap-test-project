@@ -1,8 +1,8 @@
 *.js linguist-detectable=false
-*.cc linguist-detectable=false
-*.shell linguist-detectable=false
-*.nushell linguist-detectable=false
-*.batchfile linguist-detectable=false
+*.cpp linguist-detectable=false
+*shell linguist-detectable=false
+*nushell linguist-detectable=false
+*batchfile linguist-detectable=false
 *.html linguist-detectable=true
 *.py linguist-detectable=true
 *.css linguist-detectable=true
